@@ -1,0 +1,20 @@
+.contact {
+  display: block;
+  width: 400px;
+}
+
+.contactBox {
+  max-width: 450px;
+  padding: 4px;
+  border: 1px black solid;
+  border-radius: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.contactBtn {
+  height: 50px;
+  width: auto;
+}

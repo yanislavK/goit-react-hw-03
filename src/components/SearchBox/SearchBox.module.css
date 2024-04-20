@@ -1,0 +1,15 @@
+.cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.search {
+  height: 20px;
+  width: 450px;
+  background-color: rgb(217, 255, 242);
+  border-radius: 12px;
+  border: 1px black solid;
+  padding: 4px;
+}
